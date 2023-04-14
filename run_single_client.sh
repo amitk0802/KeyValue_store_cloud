@@ -1,0 +1,1 @@
+python3 /nfs/nfs7/home/amkasera/Cloud_Computing/client.py
